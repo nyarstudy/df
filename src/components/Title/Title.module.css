@@ -1,0 +1,5 @@
+.title {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: clamp(1.125rem, 0.807rem + 1.59vw, 2rem);
+}

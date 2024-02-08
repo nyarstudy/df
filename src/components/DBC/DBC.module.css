@@ -1,0 +1,14 @@
+.dbc {
+  border: 2px solid rebeccapurple;
+  margin-top: 20px;
+  padding: 10px;
+}
+.desc {
+  margin-top: 15px;
+}
+.example {
+  margin-top: 15px;
+  background-color: brown;
+  color: white;
+  padding: 10px;
+}

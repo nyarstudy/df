@@ -1,0 +1,24 @@
+.dbc {
+  border: 2px solid rebeccapurple;
+  margin-top: 20px;
+  padding: 10px;
+}
+.desc {
+  margin-top: 15px;
+}
+.example {
+  background-color: brown;
+  color: white;
+  padding: 10px;
+}
+.code {
+  margin-top: 20px;
+  display: block;
+}
+.flex {
+  padding: 20px 10px;
+  border: 1px solid rgb(76, 0, 255);
+  display: flex;
+  column-gap: 10px;
+  font-size: clamp(0.5rem, 0.318rem + 0.91vw, 1rem);
+}

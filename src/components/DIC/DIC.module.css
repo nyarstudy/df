@@ -1,0 +1,23 @@
+.dbc {
+  border: 2px solid rebeccapurple;
+  margin-top: 20px;
+  padding: 10px;
+}
+.desc {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.example {
+  display: inline;
+  background-color: brown;
+  color: white;
+  border: 4px solid rgb(0, 0, 0);
+  margin-right: 10px;
+  font-size: clamp(0.625rem, 0.489rem + 0.68vw, 1rem);
+}
+.textexample {
+  border: 2px solid red;
+}
+.ex2 {
+  margin-top: 15px;
+}
